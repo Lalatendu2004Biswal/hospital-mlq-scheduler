@@ -68,7 +68,7 @@ Runs at: `http://localhost:3000`
 
 ## 📦 Author
 
-> Developed by [Lalaltendu Biswal]
+> Developed by [Lalatendu Biswal]
 
 ---
 
