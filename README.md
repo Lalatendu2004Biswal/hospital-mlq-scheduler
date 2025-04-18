@@ -68,7 +68,7 @@ Runs at: `http://localhost:3000`
 
 ## 📦 Author
 
-> Developed by [Lalatendu Biswal]
+> Developed by [Lalatendu Biswal, Mahak Agarwal, Mihir Chauhan, Mehul Rawat, Mayank Kumar]
 
 ---
 
